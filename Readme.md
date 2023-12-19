@@ -31,6 +31,14 @@ For testing the `SpellChecker`:
 
 Through this project, I aim to demonstrate that a Trie-HashMap hybrid can effectively bridge the gap between the advantages of Tries and Hash Maps, offering an efficient solution for real-time spell checking applications.
 
+
+**How to run the program:**
+* In terminal, enter the cmd `./spellChecker`
+* Load a fruit dictionary through the cmd `fruit.txt`
+* Type `lemn` or `ap` and see the misspelled message
+* Type `mango` or `plum` or any other name of the fruit in the fruit.txt and see the correctly spelled message
+* Terminate the session via cmd `exit`
+
 **References:**  
 [1] Textbook: Data Structures and Algorithm Analysis  
 [2] https://en.wikipedia.org/wiki/Trie  
